@@ -24,17 +24,17 @@ done
 # using loops and if statements.
 
 echo "Let sing about the apples in the tree song"
-echo "How many apples are in the tree?"
+echo "How many pears are in the tree?"
 read count
 
 while [ $count -ge 0 ]; do
 	if [ $count -ge 1 ]; then
-		echo "$count little apples so red and bright"
+		echo "$count little pears so red and bright"
 		echo "were dancing about on a tree one night."
 		echo "The wind came rustling through the town"
 		echo "One little apple came tumbling down."
 	else
-		echo "No more apples left dancing on the tree."
+		echo "No more pears left dancing on the tree."
 	fi
 
 
