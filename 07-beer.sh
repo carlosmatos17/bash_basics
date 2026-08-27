@@ -23,7 +23,8 @@ done
 # exercise: implement another counting song (such as 12 days of Christmas) 
 # using loops and if statements.
 
-echo "Let sing about the apples in the tree song"
+
+echo "Let sing about the pears in the tree song"
 echo "How many pears are in the tree?"
 read count
 
